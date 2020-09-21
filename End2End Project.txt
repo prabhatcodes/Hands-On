@@ -1,5 +1,6 @@
 Approaching a Project
 In a nutshell
+
 	1. Look at the big picture
 	2. Get the Data
 	3. Discover and visualize data to gai insights
@@ -10,5 +11,7 @@ In a nutshell
 	8. Launch, monitor and maintain your system.
 
 
-	1. Confirm what the objective is and how the result is supposed to be used
-	2. Understand the current solution that exists(if it does)
+1. How to look at the bigger picture?
+
+	a) Confirm what the objective is and how the result is supposed to be used
+	b) Understand the current solution that exists(if it does)
