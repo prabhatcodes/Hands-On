@@ -1,0 +1,12 @@
+CMD
+
+opening venv then juptyer
+
+first change working directory to project folder
+
+my_env\Scripts\activate.bat
+// my_env is the name of this particular venv named by me
+
+(my_env) shows before path on left if it worked
+
+jupyter notebook
